@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/macarthuror/parse-smtp-template#readme",
   "dependencies": {
-    "nodemailer": "4.7.0"
+    "nodemailer": "8.0.4"
   },
   "devDependencies": {}
 }
